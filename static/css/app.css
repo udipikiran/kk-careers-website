@@ -35,3 +35,26 @@ p{
     font-size: xx-small;
     text-align: center;
 }
+.jobdetails{
+    border-bottom: 1px solid #f1f1f1;
+    padding-bottom:  8px;
+}
+.jobtitle{
+    font-family: "Roboto", sans-serif;
+    font-size: larger;
+    color: darkgray;
+    margin-bottom: auto;
+    
+}
+.joblocation{
+    font-family: "Roboto", sans-serif;
+    font-size: medium;
+    color: darkslategrey;
+    margin-bottom: auto;
+}
+.jobsalary{
+    font-family: "Roboto", sans-serif;
+    font-size: medium;
+    color: darkslategrey;
+    margin-bottom: auto;
+}
